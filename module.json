@@ -1,0 +1,10 @@
+{
+    "name": "no-more-wasted-infusions",
+    "author": "sunflower",
+    "version": "",
+    "description": "Automatically flags Battered Oath infusion materials that meet the power line amount threshold.",
+    "disableAutoUpdate": true,
+    "options": {
+        "reloadable": true
+    }
+}
